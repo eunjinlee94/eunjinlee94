@@ -1,5 +1,8 @@
-<h1 align="center">Eunjin Lee</h1>
+<h1 align="center">Welcome To My PlayGround🎡</h1>
 
+<h2>🎈About Me🎈</h2>
+-
+-
 
 <h2>💪Skills </h2>
 <h3>Platforms & Languages</h3>
