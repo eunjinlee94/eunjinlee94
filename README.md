@@ -3,8 +3,9 @@
 </p>
 
 <h2>🎈About Me🎈</h2>
-  ⚪️ Junior developer
-  ⚪️ 
+  <p>
+  - 👩🏻‍💻Junior developer
+  </p> 
 
 <h2>💪Skills </h2>
 <h3>Platforms & Languages</h3>
@@ -26,3 +27,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
+
+<hr>
+
+![Eunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjinlee94&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjinlee94&layout=vue&theme=vue)
