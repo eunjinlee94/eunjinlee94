@@ -1,8 +1,10 @@
-<h1 align="center">Welcome To My PlayGround🎡</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome To My PlayGround🎡 &fontSize=45"/>
+</p>
 
 <h2>🎈About Me🎈</h2>
--
--
+  ⚪️ Junior developer
+  ⚪️ 
 
 <h2>💪Skills </h2>
 <h3>Platforms & Languages</h3>
