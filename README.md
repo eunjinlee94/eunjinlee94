@@ -7,7 +7,8 @@
   - 👩🏻‍💻Junior developer
   </p> 
 
-<hr>
+
+
 
 <h2>💪Skills </h2>
 <h3>Platforms & Languages</h3>
