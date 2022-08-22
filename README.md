@@ -1,6 +1,5 @@
-<p align="center">
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=welcome to my playground%20render&fontSize=40)
-</p>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=welcome to my playground%20render&fontSize=40)
+
 
 <h2>🎈About Me🎈</h2>
   <p>
